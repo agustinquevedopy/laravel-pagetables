@@ -9,6 +9,8 @@
         "vue",
         "pagetables"
     ],
+    "minimum-stability": "dev",
+    "version": "1",
     "homepage": "https://github.com/savannabits/laravel-pagetables",
     "license": "MIT",
     "authors": [
@@ -21,7 +23,7 @@
     ],
     "require": {
         "php": "^7.4|^8.0",
-        "illuminate/contracts": "^6.0|^7.0|^8.0|^9.0",
+        "illuminate/contracts": "^6.0|^7.0|^8.0|^9.0|^10.0",
         "ext-json": "*"
     },
     "require-dev": {
